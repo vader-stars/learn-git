@@ -1,2 +1,4 @@
 # learn-git
-Learn the basics of Git. 
+Learn the basics of Git.
+
+Something else.  
